@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/questions/page": "app/admin/questions/page.js",
+  "/chat/page": "app/chat/page.js",
+  "/coding/page": "app/coding/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/interview/page": "app/interview/page.js",
+  "/library/page": "app/library/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/progress/page": "app/progress/page.js",
+  "/quiz/page": "app/quiz/page.js",
+  "/register/page": "app/register/page.js",
+  "/resume/page": "app/resume/page.js",
+  "/sessions/page": "app/sessions/page.js",
+  "/test/page": "app/test/page.js"
+}

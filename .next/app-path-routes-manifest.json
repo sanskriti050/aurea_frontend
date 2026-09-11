@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/questions/page": "/admin/questions",
+  "/chat/page": "/chat",
+  "/coding/page": "/coding",
+  "/dashboard/page": "/dashboard",
+  "/favicon.ico/route": "/favicon.ico",
+  "/interview/page": "/interview",
+  "/library/page": "/library",
+  "/login/page": "/login",
+  "/page": "/",
+  "/progress/page": "/progress",
+  "/quiz/page": "/quiz",
+  "/register/page": "/register",
+  "/resume/page": "/resume",
+  "/sessions/page": "/sessions",
+  "/test/page": "/test"
+}
